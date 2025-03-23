@@ -1,14 +1,38 @@
 [
   {
-    "name": "Handcrafted Wooden Tuna",
-    "price": "171.99",
-    "category": "Toys",
-    "description": "The blue Soap combines Portugal aesthetics with Beryllium-based durability"
-  },
-  {
     "name": "Unbranded Aluminum Ball",
     "price": "126.25",
     "category": "Home",
     "description": "Innovative Car featuring both technology and Plastic construction"
+  },
+  {
+    "name": "Soft Metal Cheese",
+    "price": "117.15",
+    "category": "Grocery",
+    "description": "The Organic client-driven product Bike offers reliable performance and courageous design"
+  },
+  {
+    "name": "Ergonomic Aluminum Chair",
+    "price": "203.65",
+    "category": "Electronics",
+    "description": "Discover the bear-like agility of our Pants, perfect for superior users"
+  },
+  {
+    "name": "Small Bamboo Towels",
+    "price": "70.59",
+    "category": "Automotive",
+    "description": "Innovative Salad featuring ecstatic technology and Metal construction"
+  },
+  {
+    "name": "Fantastic Cotton Bacon",
+    "price": "392.73",
+    "category": "Movies",
+    "description": "Stylish Pizza designed to make you stand out with best looks"
+  },
+  {
+    "name": "Small Wooden Hat",
+    "price": "127.19",
+    "category": "Health",
+    "description": "Savor the bitter essence in our Fish, designed for elderly culinary adventures"
   }
 ]
