@@ -1,38 +1,20 @@
 [
   {
-    "name": "Unbranded Aluminum Ball",
-    "price": "126.25",
-    "category": "Home",
-    "description": "Innovative Car featuring both technology and Plastic construction"
+    "name": "Handmade Metal Chair",
+    "price": "938.59",
+    "category": "Sports",
+    "description": "Rustic Towels designed with Metal for wealthy performance"
   },
   {
-    "name": "Soft Metal Cheese",
-    "price": "117.15",
-    "category": "Grocery",
-    "description": "The Organic client-driven product Bike offers reliable performance and courageous design"
-  },
-  {
-    "name": "Ergonomic Aluminum Chair",
-    "price": "203.65",
-    "category": "Electronics",
-    "description": "Discover the bear-like agility of our Pants, perfect for superior users"
-  },
-  {
-    "name": "Small Bamboo Towels",
-    "price": "70.59",
+    "name": "Practical Plastic Shoes",
+    "price": "19.65",
     "category": "Automotive",
-    "description": "Innovative Salad featuring ecstatic technology and Metal construction"
+    "description": "The User-centric holistic synergy Gloves offers reliable performance and esteemed design"
   },
   {
-    "name": "Fantastic Cotton Bacon",
-    "price": "392.73",
-    "category": "Movies",
-    "description": "Stylish Pizza designed to make you stand out with best looks"
-  },
-  {
-    "name": "Small Wooden Hat",
-    "price": "127.19",
-    "category": "Health",
-    "description": "Savor the bitter essence in our Fish, designed for elderly culinary adventures"
+    "name": "Fantastic Bamboo Sausages",
+    "price": "930.75",
+    "category": "Clothing",
+    "description": "Experience the lavender brilliance of our Tuna, perfect for pleased environments"
   }
 ]
